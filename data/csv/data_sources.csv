@@ -1,0 +1,12 @@
+source_id,file_name,source_type,description,traceability_role
+SRC001,clients.csv,CSV,Master client list for fictional investment bank,Dimension table
+SRC002,bankers.csv,CSV,Banker directory and team coverage,Dimension table
+SRC003,teams.csv,CSV,Banking team definitions,Dimension table
+SRC004,deals.csv,CSV,Historical and in-quarter deal log,Fact table
+SRC005,pipeline_opportunities.csv,CSV,Forward-looking opportunity pipeline,Fact table
+SRC006,revenue_by_sector_quarter.csv,CSV,Eight quarters of sector revenue,Aggregated fact table
+SRC007,revenue_by_region_quarter.csv,CSV,Eight quarters of regional revenue,Aggregated fact table
+SRC008,market_conditions.csv,CSV,Quarterly macro and market context,Context table
+SRC009,sector_outlook_notes.csv,CSV,Textual sector outlook notes that can later be converted into PDFs for RAG,Document-like source
+SRC010,client_activity.csv,CSV,Quarterly client engagement and coverage activity,Fact table
+SRC011,banker_coverage_summary.csv,CSV,Derived banker coverage productivity summary,Derived summary

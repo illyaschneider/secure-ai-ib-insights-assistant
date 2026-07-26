@@ -1,0 +1,31 @@
+client_id,client_name,sector,region,ownership,relationship_tier,primary_banker_id,risk_rating,relationship_start_year,annual_revenue_usd_mm
+C001,Northstar Cloud Systems,Technology,North America,Public,Tier 1,B001,Elevated,2016,380
+C002,Helio Semiconductor,Technology,Asia-Pacific,Public,Tier 1,B001,Elevated,2019,950
+C003,Atlas Cybersecurity,Technology,Europe,Private,Tier 2,B002,Moderate,2017,520
+C004,Nova Payments,Technology,Latin America,Private,Tier 2,B003,Elevated,2023,520
+C005,Quantum Retail AI,Technology,North America,Private,Tier 3,B001,Elevated,2021,380
+C006,BluePeak Data Centers,Technology,Europe,Public,Tier 1,B002,Moderate,2016,950
+C007,Aster Biologics,Healthcare,North America,Public,Tier 1,B004,Moderate,2023,7200
+C008,Meridian Hospitals Group,Healthcare,Europe,Private,Tier 2,B004,Low,2023,950
+C009,Pacific Diagnostics,Healthcare,Asia-Pacific,Public,Tier 2,B006,Elevated,2018,3200
+C010,Veridian Pharma,Healthcare,North America,Public,Tier 1,B004,Moderate,2015,750
+C011,Sunrise Medical Devices,Healthcare,Latin America,Private,Tier 3,B006,Elevated,2020,1250
+C012,IronGate Robotics,Industrials,North America,Public,Tier 2,B009,Moderate,2018,1800
+C013,Baltic Rail Systems,Industrials,Europe,Public,Tier 2,B007,Low,2016,2400
+C014,Apex Aerospace Components,Industrials,North America,Private,Tier 1,B009,Low,2020,1800
+C015,Kanto Precision Tools,Industrials,Asia-Pacific,Private,Tier 3,B007,Moderate,2015,3200
+C016,Sierra Grid Equipment,Industrials,Latin America,Public,Tier 2,B008,Low,2021,520
+C017,HarborFoods International,Consumer & Retail,North America,Public,Tier 2,B005,Moderate,2020,7200
+C018,Luma Apparel Group,Consumer & Retail,Europe,Private,Tier 3,B005,Moderate,2016,380
+C019,FreshCart Markets,Consumer & Retail,Asia-Pacific,Private,Tier 2,B006,Moderate,2019,520
+C020,Boreal Beauty Holdings,Consumer & Retail,Europe,Public,Tier 1,B005,Moderate,2016,2400
+C021,Orion Renewables,Energy,North America,Public,Tier 1,B008,Moderate,2022,10500
+C022,Andes Lithium Partners,Energy,Latin America,Private,Tier 2,B008,Moderate,2017,1800
+C023,NordSea Gas Infrastructure,Energy,Europe,Public,Tier 2,B007,Moderate,2018,10500
+C024,Aquila Solar Storage,Energy,Asia-Pacific,Private,Tier 3,B008,Moderate,2016,7200
+C025,Sterling Regional Bank,Financial Institutions,North America,Public,Tier 1,B011,Moderate,2023,950
+C026,Crescent Insurance Holdings,Financial Institutions,Europe,Public,Tier 2,B011,Moderate,2022,2400
+C027,Lotus Digital Bank,Financial Institutions,Asia-Pacific,Private,Tier 1,B010,Moderate,2023,950
+C028,Pampa Asset Management,Financial Institutions,Latin America,Private,Tier 3,B010,Moderate,2015,950
+C029,Summit Credit Union,Financial Institutions,North America,Private,Tier 2,B011,Low,2020,2400
+C030,Marlin Exchange Group,Financial Institutions,Europe,Public,Tier 1,B010,Moderate,2016,950

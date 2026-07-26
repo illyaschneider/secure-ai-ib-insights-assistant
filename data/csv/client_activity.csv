@@ -1,0 +1,241 @@
+client_id,quarter,coverage_meetings,pitch_books_sent,management_calls,engagement_score,latest_activity_theme
+C001,2024Q2,5,3,2,86,Market update
+C001,2024Q3,4,4,3,82,Board materials review
+C001,2024Q4,2,2,4,74,Capital structure update
+C001,2025Q1,4,4,4,80,Market update
+C001,2025Q2,4,3,2,78,Market update
+C001,2025Q3,3,2,2,74,Market update
+C001,2025Q4,3,4,2,85,Quarterly coverage call
+C001,2026Q1,4,1,3,64,Delayed process review / valuation reset discussion
+C002,2024Q2,4,4,3,78,Market update
+C002,2024Q3,5,4,2,80,Quarterly coverage call
+C002,2024Q4,4,4,3,82,Market update
+C002,2025Q1,3,2,3,73,Capital structure update
+C002,2025Q2,4,2,4,72,Capital structure update
+C002,2025Q3,5,3,4,86,Quarterly coverage call
+C002,2025Q4,3,2,3,80,Market update
+C002,2026Q1,4,3,2,68,Delayed process review / valuation reset discussion
+C003,2024Q2,3,1,2,67,Capital structure update
+C003,2024Q3,3,2,2,72,Capital structure update
+C003,2024Q4,2,1,4,61,Market update
+C003,2025Q1,4,1,2,65,Quarterly coverage call
+C003,2025Q2,4,1,3,68,Board materials review
+C003,2025Q3,3,1,4,66,Market update
+C003,2025Q4,4,3,3,70,Strategic alternatives discussion
+C003,2026Q1,3,3,2,51,Delayed process review / valuation reset discussion
+C004,2024Q2,2,1,2,59,Strategic alternatives discussion
+C004,2024Q3,4,1,3,58,Market update
+C004,2024Q4,2,3,4,61,Quarterly coverage call
+C004,2025Q1,2,1,2,58,Strategic alternatives discussion
+C004,2025Q2,2,2,3,59,Market update
+C004,2025Q3,4,1,4,65,Strategic alternatives discussion
+C004,2025Q4,4,3,2,72,Market update
+C004,2026Q1,2,1,1,49,Delayed process review / valuation reset discussion
+C005,2024Q2,2,2,2,43,Board materials review
+C005,2024Q3,3,3,3,49,Quarterly coverage call
+C005,2024Q4,2,3,2,43,Quarterly coverage call
+C005,2025Q1,2,1,1,54,Quarterly coverage call
+C005,2025Q2,2,2,1,50,Board materials review
+C005,2025Q3,1,1,2,46,Board materials review
+C005,2025Q4,2,1,3,54,Market update
+C005,2026Q1,1,0,1,32,Delayed process review / valuation reset discussion
+C006,2024Q2,3,3,2,74,Board materials review
+C006,2024Q3,3,2,3,85,Board materials review
+C006,2024Q4,3,3,3,72,Board materials review
+C006,2025Q1,5,4,3,78,Market update
+C006,2025Q2,3,2,2,74,Strategic alternatives discussion
+C006,2025Q3,3,4,3,81,Market update
+C006,2025Q4,4,3,4,72,Quarterly coverage call
+C006,2026Q1,2,1,4,62,Delayed process review / valuation reset discussion
+C007,2024Q2,2,4,2,73,Strategic alternatives discussion
+C007,2024Q3,4,2,4,82,Strategic alternatives discussion
+C007,2024Q4,5,2,4,75,Market update
+C007,2025Q1,4,4,4,73,Board materials review
+C007,2025Q2,4,2,4,80,Capital structure update
+C007,2025Q3,3,3,3,83,Capital structure update
+C007,2025Q4,5,4,3,83,Strategic alternatives review / capital markets update
+C007,2026Q1,4,2,2,85,Strategic alternatives review / capital markets update
+C008,2024Q2,4,1,2,65,Market update
+C008,2024Q3,4,2,2,66,Strategic alternatives discussion
+C008,2024Q4,2,2,3,72,Capital structure update
+C008,2025Q1,3,3,4,62,Strategic alternatives discussion
+C008,2025Q2,4,3,2,62,Market update
+C008,2025Q3,3,3,2,68,Market update
+C008,2025Q4,3,1,2,69,Strategic alternatives review / capital markets update
+C008,2026Q1,4,2,3,73,Strategic alternatives review / capital markets update
+C009,2024Q2,2,3,3,62,Market update
+C009,2024Q3,4,2,3,61,Capital structure update
+C009,2024Q4,2,4,3,72,Quarterly coverage call
+C009,2025Q1,2,2,3,71,Capital structure update
+C009,2025Q2,4,3,2,70,Strategic alternatives discussion
+C009,2025Q3,4,3,3,69,Board materials review
+C009,2025Q4,2,2,2,72,Strategic alternatives review / capital markets update
+C009,2026Q1,2,4,2,73,Strategic alternatives review / capital markets update
+C010,2024Q2,5,4,2,85,Capital structure update
+C010,2024Q3,3,3,3,78,Strategic alternatives discussion
+C010,2024Q4,4,2,4,86,Quarterly coverage call
+C010,2025Q1,4,4,3,75,Quarterly coverage call
+C010,2025Q2,3,2,2,81,Strategic alternatives discussion
+C010,2025Q3,3,2,4,86,Board materials review
+C010,2025Q4,4,4,4,84,Strategic alternatives review / capital markets update
+C010,2026Q1,3,3,2,88,Strategic alternatives review / capital markets update
+C011,2024Q2,3,1,2,54,Quarterly coverage call
+C011,2024Q3,2,2,2,45,Strategic alternatives discussion
+C011,2024Q4,2,1,3,55,Strategic alternatives discussion
+C011,2025Q1,2,2,1,45,Board materials review
+C011,2025Q2,3,3,3,54,Capital structure update
+C011,2025Q3,2,1,1,48,Market update
+C011,2025Q4,2,3,2,54,Strategic alternatives review / capital markets update
+C011,2026Q1,2,3,2,52,Strategic alternatives review / capital markets update
+C012,2024Q2,3,3,4,63,Capital structure update
+C012,2024Q3,4,1,2,59,Board materials review
+C012,2024Q4,2,3,3,58,Board materials review
+C012,2025Q1,3,2,2,68,Strategic alternatives discussion
+C012,2025Q2,4,2,4,68,Capital structure update
+C012,2025Q3,4,3,4,71,Quarterly coverage call
+C012,2025Q4,3,2,4,62,Board materials review
+C012,2026Q1,2,1,3,62,Market update
+C013,2024Q2,4,3,2,68,Board materials review
+C013,2024Q3,3,2,4,67,Market update
+C013,2024Q4,3,3,2,71,Quarterly coverage call
+C013,2025Q1,4,3,3,64,Market update
+C013,2025Q2,3,3,2,65,Board materials review
+C013,2025Q3,4,1,4,66,Board materials review
+C013,2025Q4,4,3,3,59,Capital structure update
+C013,2026Q1,2,1,4,67,Capital structure update
+C014,2024Q2,3,2,2,76,Strategic alternatives discussion
+C014,2024Q3,3,4,2,72,Strategic alternatives discussion
+C014,2024Q4,5,4,2,79,Board materials review
+C014,2025Q1,4,3,2,83,Board materials review
+C014,2025Q2,2,3,2,74,Quarterly coverage call
+C014,2025Q3,3,2,4,74,Market update
+C014,2025Q4,4,2,3,75,Quarterly coverage call
+C014,2026Q1,5,4,3,82,Market update
+C015,2024Q2,4,3,3,54,Board materials review
+C015,2024Q3,2,1,3,48,Market update
+C015,2024Q4,3,2,1,55,Board materials review
+C015,2025Q1,4,2,3,55,Capital structure update
+C015,2025Q2,2,1,3,45,Capital structure update
+C015,2025Q3,2,2,2,46,Strategic alternatives discussion
+C015,2025Q4,2,1,1,56,Market update
+C015,2026Q1,3,1,3,45,Board materials review
+C016,2024Q2,3,2,3,61,Quarterly coverage call
+C016,2024Q3,3,1,2,66,Board materials review
+C016,2024Q4,3,4,4,71,Board materials review
+C016,2025Q1,3,2,1,58,Market update
+C016,2025Q2,3,2,4,63,Capital structure update
+C016,2025Q3,4,1,3,69,Market update
+C016,2025Q4,3,2,2,61,Capital structure update
+C016,2026Q1,4,3,3,64,Capital structure update
+C017,2024Q2,3,1,4,69,Strategic alternatives discussion
+C017,2024Q3,3,3,4,66,Quarterly coverage call
+C017,2024Q4,2,3,3,68,Quarterly coverage call
+C017,2025Q1,2,1,3,60,Board materials review
+C017,2025Q2,2,2,3,64,Capital structure update
+C017,2025Q3,3,2,3,63,Board materials review
+C017,2025Q4,3,2,4,71,Quarterly coverage call
+C017,2026Q1,3,1,4,66,Quarterly coverage call
+C018,2024Q2,1,1,1,43,Quarterly coverage call
+C018,2024Q3,4,1,1,55,Quarterly coverage call
+C018,2024Q4,3,1,3,44,Board materials review
+C018,2025Q1,3,2,2,45,Board materials review
+C018,2025Q2,3,3,3,44,Market update
+C018,2025Q3,2,1,3,43,Strategic alternatives discussion
+C018,2025Q4,3,3,2,42,Capital structure update
+C018,2026Q1,1,3,3,48,Strategic alternatives discussion
+C019,2024Q2,2,4,3,71,Strategic alternatives discussion
+C019,2024Q3,2,4,2,71,Market update
+C019,2024Q4,3,3,3,63,Market update
+C019,2025Q1,4,2,1,59,Market update
+C019,2025Q2,3,2,3,71,Board materials review
+C019,2025Q3,4,1,3,63,Board materials review
+C019,2025Q4,4,2,4,60,Market update
+C019,2026Q1,3,3,3,70,Market update
+C020,2024Q2,4,3,2,85,Market update
+C020,2024Q3,4,3,2,85,Quarterly coverage call
+C020,2024Q4,5,4,4,84,Board materials review
+C020,2025Q1,3,3,3,78,Capital structure update
+C020,2025Q2,2,3,3,74,Board materials review
+C020,2025Q3,5,4,3,77,Capital structure update
+C020,2025Q4,5,2,2,80,Quarterly coverage call
+C020,2026Q1,4,4,2,75,Board materials review
+C021,2024Q2,5,4,3,83,Board materials review
+C021,2024Q3,3,3,2,79,Quarterly coverage call
+C021,2024Q4,4,4,4,78,Strategic alternatives discussion
+C021,2025Q1,5,4,3,77,Board materials review
+C021,2025Q2,4,3,4,78,Market update
+C021,2025Q3,4,3,2,79,Capital structure update
+C021,2025Q4,5,2,3,81,Infrastructure financing and M&A dialogue
+C021,2026Q1,5,4,4,81,Infrastructure financing and M&A dialogue
+C022,2024Q2,2,3,3,60,Strategic alternatives discussion
+C022,2024Q3,4,3,3,62,Market update
+C022,2024Q4,3,1,2,59,Strategic alternatives discussion
+C022,2025Q1,2,3,4,60,Capital structure update
+C022,2025Q2,2,1,4,60,Capital structure update
+C022,2025Q3,4,2,2,62,Strategic alternatives discussion
+C022,2025Q4,2,4,3,73,Infrastructure financing and M&A dialogue
+C022,2026Q1,3,3,3,70,Infrastructure financing and M&A dialogue
+C023,2024Q2,3,2,2,60,Quarterly coverage call
+C023,2024Q3,3,3,2,71,Quarterly coverage call
+C023,2024Q4,2,1,4,67,Quarterly coverage call
+C023,2025Q1,2,1,4,62,Quarterly coverage call
+C023,2025Q2,4,4,4,70,Board materials review
+C023,2025Q3,3,2,3,61,Market update
+C023,2025Q4,4,2,3,69,Infrastructure financing and M&A dialogue
+C023,2026Q1,4,2,4,71,Infrastructure financing and M&A dialogue
+C024,2024Q2,2,3,1,53,Quarterly coverage call
+C024,2024Q3,1,1,1,46,Quarterly coverage call
+C024,2024Q4,2,1,2,50,Quarterly coverage call
+C024,2025Q1,2,2,1,49,Market update
+C024,2025Q2,3,2,3,45,Capital structure update
+C024,2025Q3,2,3,1,55,Board materials review
+C024,2025Q4,4,3,3,53,Infrastructure financing and M&A dialogue
+C024,2026Q1,2,2,1,57,Infrastructure financing and M&A dialogue
+C025,2024Q2,5,2,3,80,Strategic alternatives discussion
+C025,2024Q3,3,2,2,85,Strategic alternatives discussion
+C025,2024Q4,5,4,4,84,Capital structure update
+C025,2025Q1,4,2,3,86,Capital structure update
+C025,2025Q2,5,3,3,83,Capital structure update
+C025,2025Q3,4,3,2,80,Market update
+C025,2025Q4,4,4,3,81,Quarterly coverage call
+C025,2026Q1,3,2,2,81,Capital structure update
+C026,2024Q2,4,1,4,68,Market update
+C026,2024Q3,4,2,2,71,Capital structure update
+C026,2024Q4,4,2,3,65,Market update
+C026,2025Q1,3,3,3,60,Market update
+C026,2025Q2,3,2,2,59,Board materials review
+C026,2025Q3,2,2,3,63,Quarterly coverage call
+C026,2025Q4,3,3,3,69,Board materials review
+C026,2026Q1,2,3,2,71,Market update
+C027,2024Q2,4,2,3,77,Capital structure update
+C027,2024Q3,3,4,4,85,Market update
+C027,2024Q4,3,2,4,79,Board materials review
+C027,2025Q1,4,4,3,77,Market update
+C027,2025Q2,3,3,4,84,Quarterly coverage call
+C027,2025Q3,3,4,3,74,Capital structure update
+C027,2025Q4,4,4,2,73,Quarterly coverage call
+C027,2026Q1,4,4,2,83,Strategic alternatives discussion
+C028,2024Q2,2,1,1,50,Board materials review
+C028,2024Q3,3,1,2,49,Quarterly coverage call
+C028,2024Q4,4,3,2,56,Capital structure update
+C028,2025Q1,2,1,2,48,Board materials review
+C028,2025Q2,3,1,3,50,Strategic alternatives discussion
+C028,2025Q3,2,2,2,50,Strategic alternatives discussion
+C028,2025Q4,2,1,2,47,Market update
+C028,2026Q1,4,3,3,53,Capital structure update
+C029,2024Q2,3,3,3,65,Strategic alternatives discussion
+C029,2024Q3,4,3,3,63,Capital structure update
+C029,2024Q4,2,3,2,65,Capital structure update
+C029,2025Q1,2,2,2,67,Board materials review
+C029,2025Q2,4,2,3,63,Board materials review
+C029,2025Q3,3,1,2,68,Strategic alternatives discussion
+C029,2025Q4,3,1,3,66,Market update
+C029,2026Q1,3,1,3,59,Market update
+C030,2024Q2,4,2,2,74,Board materials review
+C030,2024Q3,4,4,4,79,Capital structure update
+C030,2024Q4,4,4,4,78,Quarterly coverage call
+C030,2025Q1,5,4,3,78,Capital structure update
+C030,2025Q2,3,4,2,85,Market update
+C030,2025Q3,3,4,2,75,Capital structure update
+C030,2025Q4,5,4,2,78,Quarterly coverage call
+C030,2026Q1,5,3,2,79,Strategic alternatives discussion

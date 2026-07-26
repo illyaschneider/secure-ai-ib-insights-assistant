@@ -1,0 +1,33 @@
+{
+  "deal_count": 110,
+  "pipeline_count": 54,
+  "client_count": 30,
+  "tech_q4_q1": [
+    [
+      "2025Q4",
+      162.89,
+      101.8
+    ],
+    [
+      "2026Q1",
+      5.39,
+      -96.7
+    ]
+  ],
+  "tech_delayed_2026q1": 2,
+  "tech_pipeline_delayed": 5,
+  "volatility": [
+    [
+      "2025Q4",
+      21.2,
+      174,
+      "Selective"
+    ],
+    [
+      "2026Q1",
+      29.4,
+      225,
+      "Tight"
+    ]
+  ]
+}

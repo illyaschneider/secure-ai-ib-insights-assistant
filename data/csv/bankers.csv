@@ -1,0 +1,13 @@
+banker_id,banker_name,title,team_id,sector_focus,region_focus,office
+B001,Maya Chen,Managing Director,TM001,Technology,North America,New York
+B002,Owen Richter,Director,TM001,Technology,Europe,London
+B003,Sofia Alvarez,Vice President,TM001,Technology,Latin America,São Paulo
+B004,Priya Raman,Managing Director,TM002,Healthcare,North America,New York
+B005,Liam Osei,Director,TM002,Consumer & Retail,Europe,London
+B006,Noah Bennett,Vice President,TM002,Healthcare,Asia-Pacific,Singapore
+B007,Elena Markovic,Managing Director,TM003,Industrials,Europe,London
+B008,Mateo Silva,Director,TM003,Energy,Latin America,São Paulo
+B009,Hannah Brooks,Vice President,TM003,Industrials,North America,New York
+B010,Daniel Wu,Managing Director,TM004,Financial Institutions,Asia-Pacific,Singapore
+B011,Amara Johnson,Director,TM004,Financial Institutions,North America,New York
+B012,Thomas Keller,Vice President,TM005,Capital Markets,Europe,London

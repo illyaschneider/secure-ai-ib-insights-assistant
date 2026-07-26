@@ -1,0 +1,33 @@
+quarter,region,total_revenue_usd_mm,deal_count,closed_deal_count,delayed_deal_count
+2024Q2,North America,81.25,4,3,0
+2024Q2,Europe,36.66,4,1,2
+2024Q2,Asia-Pacific,31.73,2,2,0
+2024Q2,Latin America,111.78,3,1,0
+2024Q3,North America,47.18,4,2,0
+2024Q3,Europe,138.11,5,4,1
+2024Q3,Asia-Pacific,54.52,2,2,0
+2024Q3,Latin America,27.97,2,0,0
+2024Q4,North America,121.62,6,5,0
+2024Q4,Europe,6.81,0,0,0
+2024Q4,Asia-Pacific,127.21,4,4,0
+2024Q4,Latin America,87.94,3,3,0
+2025Q1,North America,149.66,3,2,0
+2025Q1,Europe,178.72,4,4,0
+2025Q1,Asia-Pacific,89.61,5,3,0
+2025Q1,Latin America,55.16,2,1,0
+2025Q2,North America,58.98,3,2,0
+2025Q2,Europe,218.76,8,4,3
+2025Q2,Asia-Pacific,79.46,3,3,0
+2025Q2,Latin America,3.77,0,0,0
+2025Q3,North America,131.26,6,4,1
+2025Q3,Europe,137.98,5,3,1
+2025Q3,Asia-Pacific,40.66,3,2,0
+2025Q3,Latin America,4.19,0,0,0
+2025Q4,North America,28.74,3,1,1
+2025Q4,Europe,142.06,3,3,0
+2025Q4,Asia-Pacific,49.97,2,2,0
+2025Q4,Latin America,105.21,6,3,1
+2026Q1,North America,61.13,6,2,2
+2026Q1,Europe,55.91,2,2,0
+2026Q1,Asia-Pacific,47.08,5,1,2
+2026Q1,Latin America,16.18,2,0,0

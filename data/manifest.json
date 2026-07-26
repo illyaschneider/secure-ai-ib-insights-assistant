@@ -1,0 +1,22 @@
+{
+  "dataset_name": "Fictional Investment Bank AI Assistant Dataset",
+  "generated_at_utc": "2026-06-30T05:00:55.142870+00:00",
+  "fictional": true,
+  "counts": {
+    "clients": 30,
+    "bankers": 12,
+    "teams": 5,
+    "deals": 110,
+    "pipeline_opportunities": 54,
+    "quarters": 8,
+    "regions": 4,
+    "sectors": 6
+  },
+  "intentional_storylines": [
+    "Technology revenue declines sharply in 2026Q1.",
+    "Market volatility, credit spreads, and financing tightness increase in 2026Q1.",
+    "Multiple Technology pipeline opportunities and deals are delayed because of valuation gaps and financing concerns.",
+    "Healthcare and Energy remain comparatively resilient into 2026Q1.",
+    "Sector outlook notes provide text explanations that should corroborate structured data."
+  ]
+}
